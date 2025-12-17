@@ -1,2 +1,2 @@
-# Ecommerce-FullStack-Application
-Ecommerce-FullStack-Application-Backend(SpringBoot)-Frontend(React(
+# Ecommerce-FullStack-Applicatio)
+Ecommerce-FullStack-Application-Backend(SpringBoot)-Frontend(React)
